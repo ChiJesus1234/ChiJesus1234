@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="profile.jpg" width="150" alt="Profile picture"/>
+  <img src=" profile.jpg" width="150" alt="Profile picture"/>
+ 
 </p>
 
 
