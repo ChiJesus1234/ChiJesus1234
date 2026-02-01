@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="profile.jpg" width="150" alt="Profile picture"/>
+</p>
+
+
+
 # 👋 Hi, I'm Chinenye
 
 Software Developer in Training @ Educare Technology  
