@@ -37,3 +37,11 @@ I am committed to learning, improving daily, and growing into a professional sof
 
 ## 📫 Contact
 - GitHub: @Chijesus1234
+
+![C](https://img.shields.io/badge/C-Learning-blue)
+![Git](https://img.shields.io/badge/Git-Beginner-orange)
+![HTML](https://img.shields.io/badge/HTML-Learning-red)
+
+
+
+
