@@ -17,7 +17,7 @@ I am also the founder of **Fit Nutrition**, where I am interested in exploring h
 
 ---
 
-## 🛠️ Tech Stack (Learning)
+## Tech Stack (Learning)
 - C Programming  
 - HTML & CSS  
 - JavaScript (Beginner)  
@@ -25,9 +25,9 @@ I am also the founder of **Fit Nutrition**, where I am interested in exploring h
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🧮 Contact Manager (C)
+### Contact Manager (C)
 A simple command-line application written in C that allows users to add, view, search, and save contacts using file I/O.
 
 **What I learned:**
@@ -39,7 +39,7 @@ A simple command-line application written in C that allows users to add, view, s
 
 ---
 
-### 🌐 Product Landing Page
+### Product Landing Page
 A marketing-style landing page built with HTML, CSS, and JavaScript as part of my coursework.
 
 **What I learned:**
@@ -52,21 +52,21 @@ https://github.com/ChiJesus1234/Fermentation-Landing-Page-Marketing-Style-
 
 ---
 
-## 📚 Current Focus
+## Current Focus
 - Writing clean and structured C programs  
 - Understanding memory, pointers, and file handling  
 - Building small projects to strengthen fundamentals  
 
 ---
 
-## 🎯 Goals
+## Goals
 - Become confident in problem-solving with code  
 - Build real-world projects  
 - Grow consistently in the tech space  
 
 ---
 
-## 📫 Contact
+## Contact
 - GitHub: https://github.com/ChiJesus1234  
 - LinkedIn: https://www.linkedin.com/in/chinenye-orakwue-69030525  
 - Email: chinenyeorakwue@gmail.com  
