@@ -1,6 +1,6 @@
 
- <p align="center">
-  <img src="RAW_IMAGE_URL_HERE" width="150" />
+<p align="center">
+  <img src="assets/profile.jpg" width="150" style="border-radius: 50%;" alt="Profile picture">
 </p>
 
 # 👋 Hi, I'm Chinenye
@@ -19,10 +19,28 @@ I am committed to learning, improving daily, and growing into a professional sof
 ---
 
 ## Tech Stack (Learning)
-- C Programming
-- HTML, CSS
-- JavaScript (beginner)
-- Git & GitHub
+## 📂 Projects
+
+### 🧮 Contact Manager (C)
+A simple command-line program written in C that allows users to add, view, search, and save contacts using file I/O.
+
+**What I learned:**
+- Structs in C
+- File handling (read/write)
+- Pointers and memory basics
+
+🔗 Repository: https://github.com/ChiJesus1234/Educare-portfolio
+---
+
+### 🌐 Product Landing Page
+A basic marketing-style landing page built with HTML, CSS, and JavaScript as part of my coursework.
+
+**What I learned:**
+- Page structure and layout
+- Styling with CSS
+- Basic DOM manipulation
+
+🔗 Repository: https://github.com/ChiJesus1234/Fermentation-Landing-Page-Marketing-Style-
 
 ---
 
@@ -44,11 +62,3 @@ I am committed to learning, improving daily, and growing into a professional sof
 - GitHub: @Chijesus1234
 - https://www.linkedin.com/in/chinenye-orakwue-69030525?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   
-
-![C](https://img.shields.io/badge/C-Learning-blue)
-![Git](https://img.shields.io/badge/Git-Beginner-orange)
-![HTML](https://img.shields.io/badge/HTML-Learning-red)
-
-
-
-
