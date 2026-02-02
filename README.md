@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Chinenye
 
-🎓 **Software Developer in Training**  
-🏫 Educare Technology  
+ **Software Developer in Training**  
+  Educare Technology  
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 I am a beginner software developer currently studying **programming and software development** at Educare Technology.
 
 I enjoy understanding how things work behind the scenes and building practical solutions step by step.  
