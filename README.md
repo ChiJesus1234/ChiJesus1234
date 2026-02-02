@@ -1,4 +1,8 @@
 
+ <p align="center">
+  <img src="RAW_IMAGE_URL_HERE" width="150" />
+</p>
+
 # 👋 Hi, I'm Chinenye
 
 Software Developer in Training @ Educare Technology  
